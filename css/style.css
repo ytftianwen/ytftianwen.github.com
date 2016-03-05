@@ -20,7 +20,7 @@ CONTENTS:
 */
 /* Import css */
 /* Google font */
-@import url("../../../../fonts.googleapis.com/css-family=Open+Sans-300,400,600,700.css")/*tpa=http://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700*/;
+@import url("http://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700")/*tpa=http://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700*/;
 /* bootstrap */
 @import url("bootstrap.css")/*tpa=http://iweb-studio.com/wrapbootstrap/maxim/css/bootstrap.css*/;
 /* bootstrap responsive */
